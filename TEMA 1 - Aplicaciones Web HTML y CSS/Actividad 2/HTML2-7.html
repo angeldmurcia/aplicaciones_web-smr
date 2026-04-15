@@ -1,0 +1,22 @@
+<html>
+    <head>
+
+    </head>
+    <body>
+        <pre>
+#!/bin/bash
+
+ORIGEN="/ruta/al/directorio/origen"
+DESTINO="/ruta/al/directorio/destino"
+
+FECHA=$(date +%Y%m%d_%H%M%S)
+NOMBRE_BACKUP="backup_$FECHA.tar.gz"
+
+if [ -d "$ORIGEN" ]; then
+    tar -czf "$DESTINO/$NOMBRE_BACKUP" -C "$ORIGEN" .
+else
+    exit 1
+fi
+        </pre>
+    </body>
+</html>

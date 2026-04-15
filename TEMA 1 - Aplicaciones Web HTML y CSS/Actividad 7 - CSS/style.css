@@ -1,0 +1,99 @@
+/* https://colorhunt.co/palette/0d92f477cdfff95454c62e2e */
+
+/* Apartado 1 */
+h1, h2 {
+    color: #0D92F4;
+}
+
+/* Apartado 2 */
+nav ul li a {
+    text-decoration: underline;
+}
+
+/* Apartado 3 */
+li {
+    text-transform: lowercase;
+}
+
+/* Apartado 4*/
+#contacto p {
+    letter-spacing: 2px;
+}
+
+/* Apartado 5 */
+#ejercicios ul li {
+    word-spacing: 2px;
+}
+
+/* Apartado 6*/
+header nav ul li {
+    text-shadow: 2px 2px 2px #F95454;
+}
+
+/* Apartado 7 */
+h1,h2 {
+    text-align: left;
+}
+
+/* Apartado 8 */
+#ejercicios ul li {
+    font-size: larger;
+}
+
+/* Apartado 9 */
+#contacto p{
+    font-weight: 300;
+}
+
+/* Apartado 11*/
+header nav ul li:hover {
+    background-color: #C62E2E;
+}
+
+/* Apartado 12 */
+footer {
+    letter-spacing: 1px;
+}
+
+/* Apartado 13 */
+header nav ul li {
+    font-size: 50px;
+}
+
+/* Apartado 14 */
+#ejercicios ul li {
+    font-weight: bold;
+}
+
+/* Apartado 15 */
+#ejercicios ul li {
+    text-shadow: 2px 2px 2px rgb(231, 156, 15);
+}
+
+/* Apartado 16 */
+li {
+    text-align: center;
+}
+
+/* Apartado 17 */
+#ejercicios ul li:hover {
+    background-color: #F95454;
+
+}
+
+/* Apartado 18 */
+footer:hover {
+    color: #77CDFF;
+}
+
+/* Apartado 19 */
+* {
+    font-family: "Dancing Script";
+    font-optical-sizing: auto;
+    font-style: normal;
+}
+
+/* Apartado 20 */
+*:hover {
+    transition-duration: 1s;
+}

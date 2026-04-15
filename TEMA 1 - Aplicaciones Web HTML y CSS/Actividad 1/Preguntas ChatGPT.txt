@@ -1,0 +1,46 @@
+Con el siguiente HTML dime como tengo que hacer para cambiar el color de fondo de la web a azul oscuro
+<html>
+    </head>
+    
+    <body>
+    <h1>Nombre:</h1>
+    <p>Ángel David</p>
+    <h1>Apellidos:</h1>
+    <p>Martínez Saura</p>
+    <h1>Aficiones:</h1>
+    <h2>-Cine</h2>
+    <h2>-Música</h2>
+    <h2>-Videojuegos</h2>
+    <h1>Fecha nacimiento:</h1>
+    <p>9 de Julio de 1983</p>
+    <h1>Localidad</h1>
+    <p>Alcantarilla</p>
+    
+    </body>
+</html>
+
+--------------------------
+
+Con el html anterior genera un página con el estilo de la siguiente manera:
+Pon un pie de página con copyright
+Enmarca toda la información dentro de un recuadro y céntralo en la pantalla.
+Usa un tema verde lima pero con calidad
+
+--------------------------
+
+El texto que sale en blanco quiero que esté en color azul oscuro
+
+--------------------------
+
+Los campos <h1> y <p> ponmelos centrados en la pagina
+
+--------------------------
+
+las secciones <h2> ponmelas dentro de un cuadro con fondo verde oscuro
+
+-------------------------
+
+Pegas:
+-Los campos <h2> me los ha dejado en blanco y quería que también fueran en azul oscuro
+-El cuadro de las aficiones me gustaría que fueran con sombreado
+-El fondo de la web me habría gustado que fuera azul oscuro y no gris oscuro
