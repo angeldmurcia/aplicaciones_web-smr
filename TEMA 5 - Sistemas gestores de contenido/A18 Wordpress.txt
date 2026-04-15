@@ -1,0 +1,20 @@
+A18. Wordpress
+Según el documento csv adjunto, entra en la página web del centro (https://www.murciaeduca.es/iesfranciscosalzillo/sitio/index.cgi) y crea una versión de la sección que te ha tocado, además de una primera sección para navegar hacia esta (usa como referencia la página inicial de https://www.iax.es/).
+
+Debes tener las siguientes consideraciones:
+
+- Se debe pensar en la usabilidad de la página. Esta debe tener elementos gráficos que faciliten la navegación.
+
+- Se deben utilizar los recursos presentes en la página (documentos pdf e imágenes) y adaptarlas para que cuadren con nuestra nueva versión.
+
+- Se requiere del uso de una plantilla; debes explorar diversas plantillas en wordpress y elegir la que más te interese, siempre pensando en el centro (abstenerse de utilizar plantillas/imágenes obscenas o fuera del tono serio de lo que se requiere en la práctica.
+
+- Podemos tomar como referencia para realizar nuestra práctica, la página de otro centro educativo, como puede ser:
+
+https://www.iax.es/ -> Alfonso X
+
+La práctica será evaluada como APTO/NO APTO, dependiendo del trabajo realizado en clase, por lo que:
+
+- Si no se dedica la sesión a la práctica constará como NO APTO.
+
+- Si no se toma en serio la realización de la práctica, constará como NO APTO.
