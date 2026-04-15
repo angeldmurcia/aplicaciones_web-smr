@@ -1,0 +1,44 @@
+SGBD - Sistemas Gestores de Bases de Datos
+
+DDL - Data Definition Language
+DML - Data Manipulation Language
+DCL - Data Control Language
+
+SELECT (campo a mostrar)
+FROM (tabla)
+WHERE (campo a buscar)
+ORDER BY (ordenación)
+
+SET FOREIGN_KEY_CHECKS = 0; <--- Desactivar comprobación clave foránea
+SET FOREIGN_KEY_CHECKS = 1; <--- Activar clave foránea
+
+SELECT *
+FROM trabajadores
+WHERE DNI='44444444X'
+ORDER BY DNI;
+
+docker run --name mysql -e 
+
+DBeaver
+Botón derecho - Create connection - MySQL
+
+**************
+CREATE DATABASE animales;
+
+CREATE TABLE animales.pajaro;
+
+USE animales;
+CREATE TABLE pajaro (
+	id	DECIMAL,
+	color	CHAR,
+	tamano	NUMERIC,
+	peso	NUMERIC,
+	nombre	VARCHAR(15),
+	raza	VARCHAR(15)
+);
+
+SELECT * FROM animales.pajaro;
+
+INSERT INTO animales.pajaro VALUES (1, 'R', 10, 3, 'Toby', 'Kolibri')
+INSERT INTO animales.pajaro VALUES (id, color, tamaño, peso, nombre, raza)
+VALUES (2, 'V', 21, 8, 'Tobby', NULL);
