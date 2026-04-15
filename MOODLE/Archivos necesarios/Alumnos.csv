@@ -1,0 +1,5 @@
+username,password,firstname,lastname,email
+alumno_adms1,1234,Firstname1,Lastname1,alumno_adms1@example.com
+alumno_adms2,1234,Firstname2,Lastname2,alumno_adms2@example.com
+alumno_adms3,1234,Firstname3,Lastname3,alumno_adms3@example.com
+alumno_adms4,1234,Firstname4,Lastname4,alumno_adms4@example.com
