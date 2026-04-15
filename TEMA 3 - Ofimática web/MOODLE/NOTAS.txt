@@ -1,0 +1,11 @@
+docker-compose up
+80:8080
+Local:Docker
+
+depends_on <-- Union
+
+
+Volúmenes con respaldo
+    volumes:
+      - 'moodle_data:/bitnami/moodle'
+      - 'moodledata_data:/bitnami/moodledata'
